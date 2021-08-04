@@ -8,7 +8,7 @@
     "test": "./node_modules/jasmine/bin/jasmine.js spec/*.spec.js"
   },
   "engines": {
-    "node": "^8.0.0"
+    "node": ">=8.0.0"
   },
   "author": "Allan Wintersieck",
   "contributors": [
